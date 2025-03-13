@@ -1,4 +1,2 @@
-# mobileProject
-Group08
-
-Gabriele Franzetti, Matthias Iannarella 
+# MeteoApp-Maui-Skeleton
+ Skeleton for the MeteoApp (MAUI Version)
